@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>REALIDAD VIRTUAL</title>
+   
   </head>
   <body bgcolor ="black">
     <h1 style ="color:red"; font size ="24"; font style ="arial"; align ="center">Realidad Virtual</h1>
